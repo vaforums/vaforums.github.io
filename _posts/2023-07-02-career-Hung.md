@@ -154,3 +154,5 @@ Số lượng giải CAREER mỗi năm là quá nhỏ so với số lượng đ�
 Trong cả quá trình, mình thấy proram directors là nguồn thông tin cực kì hữu dụng. Nếu bạn có câu hỏi, đừng ngại liên hệ PDs. Đăng kí tình nguyện làm panelist; bạn sẽ có cơ hội tiếp xúc với PDs nhiều hơn, và sau đó sẽ dễ hỏi han hơn.
 
 Cuối cùng, chúc bạn may mắn!
+
+**Tác giả: [Hung Le](https://hunglvosu.github.io)**
