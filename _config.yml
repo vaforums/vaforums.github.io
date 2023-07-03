@@ -28,9 +28,11 @@ external:                  # shows a footer with social links - for available ic
 
 comments: true
 
+# Disqus Comments
 disqus:
-  disqus_shortname: vaforums    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: vaforums
+  
 plugins:
  - jekyll-feed
