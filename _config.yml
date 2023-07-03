@@ -27,6 +27,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments: true
+
+disqus:
   disqus_shortname: vaforums    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
