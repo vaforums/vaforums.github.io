@@ -91,15 +91,25 @@ Ta thử ghi ra đây một phần nhỏ các lý do:
 
 
 a) Bạn bè đều đi nước ngoài học sau đại học.
+
 b) Ðược xã hội nể trọng, oách ra phết.
+
 c) Ðể học được kiến thức tiên tiến.
+
 d) Không rõ lắm. Từ bé học đã giỏi, thì cứ tiếp tục học.
+
 e) Có lẽ là con đường duy nhất để cải thiện đời sống gia đình và cá nhân.
+
 f) Ðể mở tầm mắt ra những chân trời mới.
+
 g) Ðể sau này về làm giáo sư đại học.
+
 h) Ðể được làm nghiên cứu khoa học.
+
 i) Ðể thay đổi thế giới quan.
+
 ......
+
 z) Tất cả các lý do trên.
 
 Và z phẩy) Không làm Ph.D thì làm gì?
