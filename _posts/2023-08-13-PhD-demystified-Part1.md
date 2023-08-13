@@ -1,5 +1,5 @@
 ---
-title:  "Demystifying the Computer SciencePhD Admission in US Universities, Part I"
+title:  "Demystifying the Computer Science PhD Admission in US Universities, Part I"
 mathjax: true
 layout: post
 categories: media
