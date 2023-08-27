@@ -151,9 +151,9 @@ Below is a good example that I would definitely reply to.
 
 
 <div class="boxBorder">
-Dear Prof. Nguyen,
+Dear Prof. Nguyen,<br />
 
-I am writing to inquire about potential research opportunities as a GRA in your group at GMU. Currently I am an undergraduate student in Computer Science at UNIV and plan to graduate in May 2023.
+I am writing to inquire about potential research opportunities as a GRA in your group at GMU. Currently I am an undergraduate student in Computer Science at UNIV and plan to graduate in May 2023.<br /><br />
 
  
 I have read your TSE'21 paper on numerical invariant generation, and I am interested in this line of dynamic invariant research. I have worked (optional: with prof. Y at Z) on static program analysis and I think it could be used to tackle the spurious issues mentioned in your paper. I have a small paper at conference/workshop C and a project on symbolic execution at Github G.
@@ -209,6 +209,8 @@ PhD students often wonder why their salary is so low compared to ludicrous grant
 
 The following table shows the budget breakdown for a GRA per year (this level of details is what faculty actually uses when applying for funding).
 
+
+
 | Budget     | Cost | Note     |
 | ---:        |    :----:   |          :--- |
 |  GRA (9-month)      | 27K       |  |
@@ -235,6 +237,8 @@ These numbers are based on my experience at public universities in the US.  Priv
 
 
  The table below lists the top 50 CS programs in the US from [CSRankings.org](https://www.csrankings.org), a ranking system  based on top CS conferences.
+ 
+ 
 | Top 1-25      | Top 25-50 |
 | ----------- | ----------- |
 |  1. Carnegie Mellon      | 26.  Univ. of California - Irvine |
