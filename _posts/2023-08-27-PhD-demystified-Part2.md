@@ -278,7 +278,7 @@ I started writing this document in May 2023 and have been updating it since then
 
 **Acknowledgement:** Many people have contributed to this document. Profs. Craig Yu (GMU), Hakan Aydin (GMU), and Hung Le (UMass) provided valuable input in the early version. Other GMU faculty members also have provided feedback and contributions.  Many students including Didier (GMU), Thanh (Melbourne), and Dat (Melbourne) also have contributed valuable questions and feedback.  **Thank you!**
 
-by [ThanhVu Nguyen](https://dynaroars.github.io/nguyenthanhvuh/)
+by [ThanhVu Nguyen](https://dynaroars.github.io/)
 
 
 
