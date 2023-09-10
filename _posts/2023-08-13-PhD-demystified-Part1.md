@@ -180,7 +180,7 @@ An interview lasts about 15--30 mins, and one implicit thing you will be evaluat
 
 (to be continued)
 
-by [ThanhVu Nguyen](https://dynaroars.github.io/nguyenthanhvuh/)
+by [ThanhVu Nguyen](https://dynaroars.github.io/)
 
 
 
