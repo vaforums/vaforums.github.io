@@ -10,7 +10,9 @@ categories: media
 Hello everyone. Thanks very much for attending my talk. I’m honored to be invited and humbled to be sandwiched between these two hugely successful gentlemen. I actually had no idea what this talk is supposed to be about until roughly a week ago when Tường sent me an email with the following excerpt
 
 > Dear anh Hung, 
+
 > Blah blah blah ...
+
 > In the current agenda, the title of your part in the plenary session is "academic careers".  This is really a broad topic under the "All the way home" session name.
 
 That is why you will hear something vaguely in the realm of “academic careers,” about which I have no authority whatsoever.
@@ -156,6 +158,7 @@ Here is what my daughter taught me about academics. The “little monkey” (as 
 You don’t have to be in academia to be an academic. David Shaw was a former faculty member at Columbia’s computer science department. About 20 years ago he left academia and founded a very successful Hedge Fund named D. E. Shaw & Co.; In 2001, he also founded and served as the chief scientist at D. E. Shaw Research, studying computational biochemistry. Below is an excerpt from his [CACM interview](https://cacm.acm.org/opinion/interviews/42365-a-conversation-with-david-e-shaw/fulltext)
 
 > PAT HANRAHAN: What led you to form D. E. Shaw Research?
+
 > DAVID SHAW: … During the early years of D. E. Shaw & Co., the financial firm, I’d been personally involved in research … But as the years went by and the company grew, I had to spend more time on general management, and I could feel myself getting stupider with each passing year. I didn’t like that, so I started solving little theoretical problems at night just for fun …
 
 To me, David Shaw is more academic than many people in academia.
