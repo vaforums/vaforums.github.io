@@ -74,6 +74,7 @@ Mình chỉ có 1 lời khuyên (theo kinh nghiệm bản thân) là bạn phả
 **************
 
 Mình xin dừng Phần 1 ở đây. Những kiến thức và kinh nghiệm này chưa phải là hoàn chỉnh, nhưng mình hi vọng nó có thể gợi ý cho các bạn một vài cách để cải thiện chiến lược xây dựng đội ngũ nghiên cứu của bạn. Phần 2 mình sẽ chia sẻ thêm làm sao ứng dụng và sửa đổi các ý tưởng trên vào môi trường các nước đang phát triển, nơi mà làm nghiên cứu khoa học còn rất nhiều khó khăn. Cám ơn bạn đã đọc. (Nếu mình viết sai chính tả phần nào, cho mình xin lỗi. Mình ít khi viết bằng tiếng Việt - mình lớn lên và sống ở nước ngoài tử khi còn rất bé).
+
 **************
 
 by [Long Tran-Thanh](https://human-agentlearning.github.io/), 21/06/2024.
